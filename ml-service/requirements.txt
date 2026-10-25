@@ -1,0 +1,6 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.8
+python-dotenv>=1.0
+numpy>=2.0
+kaggle>=2.0
